@@ -1,3 +1,83 @@
 *{
-	border:1px solid black;
+border:1px solid black
 }
+
+figure{
+	display: inline-block;
+	position: relative;
+
+	
+}
+.logo{
+	display:inline-block;
+	position: relative;
+	height: 80px;
+	
+
+}
+.menu{
+	display:inline-block;
+	position: absolute;
+	right: 0;
+}
+.menu li {	
+	margin-left: 10px
+}
+
+	
+}
+#header{
+	position: relative;
+}
+
+.menu li{
+		position: relative;
+		display: inline-block;
+	}
+.proyecto1{
+	position: relative;
+	
+}
+
+.proyecto1 figure{
+	display: inline-block;
+}
+
+.proyecto1 div{
+	display: inline-block;
+	position: absolute;
+	right: 0
+	width:60%;
+}
+
+.proyecto2{
+	position: relative;
+
+}
+.proyecto2 figure{
+	display: inline-block;
+	position: absolute;
+	right: 0
+	
+	
+}
+.proyecto2 div{
+	display: inline-block;
+	width: 60%
+	
+}
+.edificio3y4{
+	position: relative;
+}
+.proyecto4{
+	display: inline-block;
+	position: absolute;
+
+}
+.proyecto3{
+	display: inline-block;
+	position: absolute;
+}
+
+
+
